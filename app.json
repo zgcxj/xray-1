@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/dgfhgn/Xray-heroku",
-  "repository": "https://github.com/dgfhgn/Xray-heroku",
+  "website": "https://github.com/zgcxj/Xray-heroku",
+  "repository": "https://github.com/zgcxj/Xray-heroku",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
